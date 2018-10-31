@@ -1,0 +1,11 @@
+C:\Users\fyhfy\Desktop\C#\Homework7\Homework7\bin\Debug\Homework7.exe.config
+C:\Users\fyhfy\Desktop\C#\Homework7\Homework7\bin\Debug\Homework7.exe
+C:\Users\fyhfy\Desktop\C#\Homework7\Homework7\bin\Debug\Homework7.pdb
+C:\Users\fyhfy\Desktop\C#\Homework7\Homework7\obj\Debug\Homework7.Form1.resources
+C:\Users\fyhfy\Desktop\C#\Homework7\Homework7\obj\Debug\Homework7.Form2.resources
+C:\Users\fyhfy\Desktop\C#\Homework7\Homework7\obj\Debug\Homework7.Properties.Resources.resources
+C:\Users\fyhfy\Desktop\C#\Homework7\Homework7\obj\Debug\Homework7.csproj.GenerateResource.Cache
+C:\Users\fyhfy\Desktop\C#\Homework7\Homework7\obj\Debug\Homework7.csproj.CoreCompileInputs.cache
+C:\Users\fyhfy\Desktop\C#\Homework7\Homework7\obj\Debug\Homework7.exe
+C:\Users\fyhfy\Desktop\C#\Homework7\Homework7\obj\Debug\Homework7.pdb
+C:\Users\fyhfy\Desktop\C#\Homework7\Homework7\obj\Debug\Homework7.Form3.resources

@@ -1,0 +1,7 @@
+C:\Users\fyhfy\Desktop\C#\Homework8\Homework8\bin\Debug\Homework8.exe.config
+C:\Users\fyhfy\Desktop\C#\Homework8\Homework8\bin\Debug\Homework8.exe
+C:\Users\fyhfy\Desktop\C#\Homework8\Homework8\bin\Debug\Homework8.pdb
+C:\Users\fyhfy\Desktop\C#\Homework8\Homework8\obj\Debug\Homework8.csprojResolveAssemblyReference.cache
+C:\Users\fyhfy\Desktop\C#\Homework8\Homework8\obj\Debug\Homework8.csproj.CoreCompileInputs.cache
+C:\Users\fyhfy\Desktop\C#\Homework8\Homework8\obj\Debug\Homework8.exe
+C:\Users\fyhfy\Desktop\C#\Homework8\Homework8\obj\Debug\Homework8.pdb

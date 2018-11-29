@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework7", "Homework7\Homework7.csproj", "{2D3DB9B8-88A7-4D31-A30F-B5514873F3F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "databinding", "..\..\..\source\repos\ch07\databinding\databinding.csproj", "{45022607-829E-4C1E-A0F8-F6E721DFC99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3DB9B8-88A7-4D31-A30F-B5514873F3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3DB9B8-88A7-4D31-A30F-B5514873F3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3DB9B8-88A7-4D31-A30F-B5514873F3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3DB9B8-88A7-4D31-A30F-B5514873F3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45022607-829E-4C1E-A0F8-F6E721DFC99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45022607-829E-4C1E-A0F8-F6E721DFC99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45022607-829E-4C1E-A0F8-F6E721DFC99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45022607-829E-4C1E-A0F8-F6E721DFC99D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0255FFE2-0EA0-4BDC-8E16-736D9C2BD207}
+	EndGlobalSection
+EndGlobal
